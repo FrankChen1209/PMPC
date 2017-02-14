@@ -1,0 +1,8 @@
+D:\MyProject\C#Project\PMPC\PMPC\bin\Debug\PMPC.exe.config
+D:\MyProject\C#Project\PMPC\PMPC\bin\Debug\PMPC.exe
+D:\MyProject\C#Project\PMPC\PMPC\bin\Debug\PMPC.pdb
+D:\MyProject\C#Project\PMPC\PMPC\obj\Debug\PMPC.csprojResolveAssemblyReference.cache
+D:\MyProject\C#Project\PMPC\PMPC\obj\Debug\PMPC.Properties.Resources.resources
+D:\MyProject\C#Project\PMPC\PMPC\obj\Debug\PMPC.csproj.GenerateResource.Cache
+D:\MyProject\C#Project\PMPC\PMPC\obj\Debug\PMPC.exe
+D:\MyProject\C#Project\PMPC\PMPC\obj\Debug\PMPC.pdb
